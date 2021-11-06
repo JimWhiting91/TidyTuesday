@@ -100,11 +100,11 @@ pub_map <- ggplot() +
   guides(colour = guide_colourbar(title.position="top"))
 
 # Plot together
-pdf("figs/sheffield_maps.pdf", width=12, height=7)
+pdf("figs/sheffield_maps.pdf",width=12, height=7)
 plot_grid(slope_map,pub_map,ncol=2,align="h",axis = "tblr")
 dev.off()
 
-png("figs/sheffield_maps.png", width=12, height=7)
+png("figs/sheffield_maps.png",units="in", width=12, height=7,res=300)
 plot_grid(slope_map,pub_map,ncol=2,align="h",axis = "tblr")
 dev.off()
 
