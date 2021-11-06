@@ -1,0 +1,8 @@
+Warning 6: Normalized/laundered field name: 'route_pref_color' to 'route_pref'
+Warning 6: Normalized/laundered field name: 'description' to 'descriptio'
+Warning 6: Normalized/laundered field name: 'designation' to 'designatio'
+Warning 6: Normalized/laundered field name: 'motor_vehicle' to 'motor_vehi'
+Warning 6: Normalized/laundered field name: 'cycle_network' to 'cycle_netw'
+Warning 6: Normalized/laundered field name: 'highway_authority_ref' to 'highway_au'
+Warning 6: Normalized/laundered field name: 'agricultural' to 'agricultur'
+Warning 6: Normalized/laundered field name: 'mtb:scale' to 'mtb_scale'
